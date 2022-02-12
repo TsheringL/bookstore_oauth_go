@@ -1,4 +1,4 @@
-module github.com/tsheringL/bookstore_oauth_go/oauth
+module github.com/tsheringL/bookstore_oauth_go
 
 go 1.17
 
